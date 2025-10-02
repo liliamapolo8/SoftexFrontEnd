@@ -1,0 +1,36 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(141, 136, 136);
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: antiquewhite;
+}
+
+h2 {
+  color: aquamarine;
+}
+p {
+  color: aliceblue;
+}
+button {
+  padding: 5px 10px;
+  background-color: cadetblue;
+  color: blue;
+  border: 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+button:hover {
+  background-color: rgb(220, 245, 233);
+}
+
+#mensagem {
+  margin-top: 20px;
+  font-weight: bold;
+  color: green;
+}
